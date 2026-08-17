@@ -1,0 +1,11 @@
+{
+  "name": "astropower-clock-starter-js",
+  "version": "1.0.0",
+  "description": "AstroPower Clock JavaScript starter — windows-only API for Hackathon 2026",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["astropower", "hackathon", "clock", "timing"],
+  "license": "MIT"
+}
